@@ -38,7 +38,7 @@ public class BMI {
             System.out.println("Gemuk");
        }
             
-       else if (BMI <29.9){
+       else if (BMI <99.9){
             System.out.println(String.format("BMI: %.2f", BMI));
             System.out.println("Obesitas");
        }             
